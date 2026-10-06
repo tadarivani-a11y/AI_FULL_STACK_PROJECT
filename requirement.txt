@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+streamlit
+sentence-transformers
+chromadb
+pypdf
+ollama
+pandas
+scikit-learn
+numpy
+joblib
+requests
+python-multipart
